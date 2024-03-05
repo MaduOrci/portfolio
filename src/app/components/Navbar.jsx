@@ -31,7 +31,7 @@ const Navbar = () => {
           className="text-2xl md:text-5xl text-white font-semibold"
         >
           <img
-            src="/images/logo.jpg"
+            src="/images/logo.png"
             alt="logo"
             style={{width:"130px", borderRadius:"20px"}}
           />
